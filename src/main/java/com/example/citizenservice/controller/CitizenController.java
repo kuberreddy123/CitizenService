@@ -9,17 +9,13 @@ public class CitizenController {
 
 	@PostMapping("/add")
 	public void addCitizen() {
-		
 	}
-	
 	
 	@PutMapping("/update")
 	public void updateCitizen() {
-		
 	}
 	
 	@GetMapping("/all")
 	public void getAllCitizens() {
-		
 	}
 }
